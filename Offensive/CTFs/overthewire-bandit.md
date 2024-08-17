@@ -321,8 +321,6 @@ This was relatively simple, you just need go to the necessary directory and see 
 
 # Level 22->23 SPOILER:FLAG DEMONSTRATED!
 
-![WhatsApp Image 2024-07-14 at 20 30 53](https://github.com/user-attachments/assets/d680fd6c-e4d4-41b8-84f2-7cafc494e8a0)
-
 
 # Level 23->24
 
