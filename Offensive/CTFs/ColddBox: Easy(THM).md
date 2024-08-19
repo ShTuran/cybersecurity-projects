@@ -42,6 +42,9 @@ Result of research led me to an Arbitrary File Upload vulnerability. WordPress v
 
 Since the site was PHP-based, I used a PHP reverse shell to gain a foothold on the box. After configuring the IP and port correctly in the script, all that was left was to set up a listener.
 
+![file-uploaded](https://github.com/user-attachments/assets/3fdb84ae-3e18-40a8-82a2-7776543d8a64)
+
+
 I successfully gained shell access but did not have permission to read the user.txt file at this point, which is where I got stuck. 
 
 ![foothold](https://github.com/user-attachments/assets/fdf417be-cb0d-492b-9359-0e32605ca680)
