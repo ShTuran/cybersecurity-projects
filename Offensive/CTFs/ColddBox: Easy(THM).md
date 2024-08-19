@@ -1,37 +1,45 @@
-Hints and Notes:
+Hints and notes:
 
     wpscan
     wp-config.php
     Scratch the surface, no rabbit hole
 
-I began with an Nmap scan, as usual. I always perform a full scan (-p-), but I start by running a quick scan before the full scan completes.
+As always I begin with nmap scan (I always scan fully -p- and before it completes I run short scan)
 
-From the scan results, I saw that only one port was open, so I proceeded to check the website. Initially, there didn’t seem to be anything interesting on the surface.
+We that only one port is open, let's check the site
 
-Next, I used Gobuster for directory enumeration. As shown in the picture, I found an intriguing directory: /hidden.
+Nothing intereting to see there.
 
-Following that, I tried wpscan, which is a tool designed for scanning WordPress sites. However, the initial scan (wpscan --url $IP) didn’t reveal anything particularly impressive.
+After that, I have used gobuster and as seen from picture I have found one directory which is interesting /hidden
 
-After my initial enumeration, I analyzed the results:
+Lastly, I have tried the wpscan which is designed for Wordpress sites; nothing impressive with wpscan --url $IP
 
-    I searched for the version of WordPress (which was revealed in the Nmap scan). After some research, I found a number of vulnerabilities. You can check them out here: WordPress Vulnerabilities.
+After doing initial enumeration, I look through the results:
 
-    Checking the /hidden directory revealed three usernames.
+    I searched the version of Wordpress (which we got it from nmap scan) and found many vulnerabilities -> check out the link: https://www.cybersecurity-help.cz/vdb/wordpress_org/wordpress/4.1.31/
 
-With the usernames in hand, I improved my wpscan by brute-forcing login credentials. Eventually, I found the password c0ldd, which allowed me to log in to the site.
+And then checked the /hidden directory; from this, we get see three usernames.
 
-A bit of research led me to an Arbitrary File Upload vulnerability. WordPress versions before 5.8 lack support for the Update URI plugin header, making it easier for attackers to execute arbitrary code via a supply-chain attack, particularly against WordPress installations that use plugins with names satisfying certain constraints but are not yet in the WordPress Plugin Directory. You can read more about this here: WordPress Arbitrary File Upload Vulnerability.
+Since we got the usernames, I have improved my wpscan by brute forcing.
 
-This vulnerability essentially handed the attacker an easy win. The administrator should have updated the website.
+And I got the c0ldd password - which logged in site.
 
-Since the site was PHP-based, I used a PHP reverse shell to gain a foothold on the box. After configuring the IP and port correctly in the script, all that was left was to set up a listener.
+From the simple research, we see that there is a Arbitrary file upload vulnerability.
 
-I successfully gained shell access but did not have permission to read the user.txt file at this point, which is where I got stuck.
+WordPress before 5.8 lacks support for the Update URI plugin header. This makes it easier for remote attackers to execute arbitrary code via a supply-chain attack against WordPress installations that use any plugin for which the slug satisfies the naming constraints of the WordPress.org Plugin Directory but is not yet present in that directory. Source: https://wpscan.com/vulnerability/95e01006-84e4-4e95-b5d7-68ea7b5aa1a8/
 
-At this stage, I turned my attention to the wp-config.php file. This file, created during the WordPress installation process, stores database information such as the database name, username, password, and host. It also establishes the connection between WordPress and its database.
+This is win for attacker. And admin should have update the website.
 
-Given this information, I checked /var/www/html/wp-config.php and found the same c0ldd password. Although this password was for the database, I decided to try it for shell access as well, and fortunately, my assumption was correct. This granted me access to the user.txt file.
+Since site is .php based php-reverse shell will help us to get a foothold on a box. After configuring the $IP and port accordingly in the script, al we need is a listener.
 
-After becoming the low-privileged user, I initiated my usual privilege escalation process by running sudo -l. The results revealed some interesting findings.
+And we got the shell. But I have not had any permission to cat the user.txt file. (which is where i got stucked)
 
-From here, I followed the instructions on GTFOBins, which indicated that I could run vim as root. Using sudo vim -c ':!/bin/sh' successfully gave me root access, allowing me to retrieve the root.txt file.
+The wp-config. php file is a configuration file created during the WordPress installation process. It stores database information such as the database name, username, password, and host. In addition to establishing a connection between your WordPress site and its database, WordPress also uses the wp-config.
+
+Above info says it enough; checking the /var/www/html/wp-config.php gave me c0ldd password, even though it is for the DB, it is worth to try to login as a c0ldd in a shell; and that was correct assumption.
+
+With that we got the user.txt file:
+
+After being the low-level user, I always start PE with sudo -l and we see a some interesting findings.
+
+From there - we go -> https://gtfobins.github.io/gtfobins/vim/; since we can run vim as a root. Trying sudo vim -c ':!/bin/sh' gives us a root access and root.txt
