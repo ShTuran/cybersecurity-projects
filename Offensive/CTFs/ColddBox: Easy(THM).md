@@ -1,6 +1,8 @@
 Hints and notes:
 1) wpscan
 2) wp-config.php
+3) Scratch the surface, no rabbit hole
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 As always I begin with nmap scan (I always scan fully `-p-` and before it completes I run short scan)
