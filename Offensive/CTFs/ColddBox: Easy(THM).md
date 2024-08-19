@@ -23,8 +23,9 @@ Following that, I tried wpscan, which is a tool designed for scanning WordPress 
 After my initial enumeration, I analyzed the results:
 
 1) I searched for the version of WordPress (which was revealed in the Nmap scan). After some research, I found a number of vulnerabilities. You can check them out here:  https://www.cybersecurity-help.cz/vdb/wordpress_org/wordpress/4.1.31/
+https://www.tenable.com/plugins/was/112464
 
-2) Checking the /hidden directory revealed three usernames.
+3) Checking the /hidden directory revealed three usernames.
 
 ![hidden directory](https://github.com/user-attachments/assets/3fd187fb-5094-40ef-bf9f-513ea5b2451f)
 
