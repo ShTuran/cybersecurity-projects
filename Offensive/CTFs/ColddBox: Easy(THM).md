@@ -10,7 +10,7 @@ I began with an Nmap scan, as usual. I always perform a full scan (-p-), but I s
 
 ![nmap](https://github.com/user-attachments/assets/6e76272b-f1eb-485f-827e-e7fc9a1a12b2)
 
-From the scan results, I saw that only one port was open, so I proceeded to check the website. Initially, there didn’t seem to be anything interesting on the surface.
+From the scan results, I saw that only 2 (80,4512) port was open, so I proceeded to check the website. Initially, there didn’t seem to be anything interesting on the surface.
 
 Next, I used Gobuster for directory enumeration. As shown in the picture, I found an intriguing directory: /hidden.
 
