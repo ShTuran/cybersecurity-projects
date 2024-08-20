@@ -118,7 +118,7 @@ Finally:
 ![image](https://github.com/user-attachments/assets/811d1fed-d439-4dea-b501-89a3e5d91be5)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-##
+## Web interaface
 
 On the next page we got system info:
 ![image](https://github.com/user-attachments/assets/40b9060b-72d7-46b5-b5a5-3adcae53eaf9)
