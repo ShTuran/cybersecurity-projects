@@ -104,6 +104,11 @@ Default credentials: ***admin:pfsense***
 
 ![image](https://github.com/user-attachments/assets/34cf3b2e-ef65-41d0-89f1-910b3a745e30)
 
+If you use this not for lab, change the default creds:
+
+![image](https://github.com/user-attachments/assets/0db247f9-4dcc-4411-bf84-e4b9d75978e5)
+
+
 
 
 
