@@ -80,6 +80,27 @@ And:
 
 ![image](https://github.com/user-attachments/assets/751570e4-3feb-431f-bcec-02e80cd0587d)
 
+If you do not see the LAN interface as me, just 4 `reset to factory` and `y`, this solved my problem:
+
+![image](https://github.com/user-attachments/assets/787f704a-8579-4b8d-aad7-6c864489847e)
+
+
+If you want to get web interface (ofc, you want) - do this steps: 
+I struggled most in here:
+
+![image](https://github.com/user-attachments/assets/5e23fa3d-d944-4ccc-9b0e-563f7c08da26)
+
+![image](https://github.com/user-attachments/assets/f6517da9-7ff8-4389-91d9-8e1d5aee59b3)
+
+![image](https://github.com/user-attachments/assets/c73bcc7e-a1d2-492d-a6d4-4bbd23ac765c)
+
+![image](https://github.com/user-attachments/assets/1b8ce9c0-9894-4de0-a575-ba583c059a8e)
+
+And add `192.168.1.x` ip address here, because our default LAN address is `192.168.1.1`, so our computer should be able to talk with `pfSense` which is on VM
+
+![image](https://github.com/user-attachments/assets/2e4af60c-9e30-4963-b5a1-58d5fbe074b6)
+
+
 
 
 
