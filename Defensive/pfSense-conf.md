@@ -34,6 +34,11 @@ Because of I install into virtual machine, chose first one:
 
 ![image](https://github.com/user-attachments/assets/cf4219f0-75d5-44d3-b480-b0ad44f1c2d6)
 
+OK:
+
+![image](https://github.com/user-attachments/assets/dbdb3c6f-1741-4c70-81db-89efad160fc8)
+
+
 
 
 
