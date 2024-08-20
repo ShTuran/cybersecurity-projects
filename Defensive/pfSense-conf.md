@@ -100,6 +100,10 @@ And add `192.168.1.x` ip address here, because our default LAN address is `192.1
 
 ![image](https://github.com/user-attachments/assets/2e4af60c-9e30-4963-b5a1-58d5fbe074b6)
 
+Default credentials: ***admin:pfsense***
+
+![image](https://github.com/user-attachments/assets/34cf3b2e-ef65-41d0-89f1-910b3a745e30)
+
 
 
 
