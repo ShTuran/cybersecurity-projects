@@ -38,6 +38,13 @@ OK:
 
 ![image](https://github.com/user-attachments/assets/dbdb3c6f-1741-4c70-81db-89efad160fc8)
 
+If after that it says: not enough disk selected, just click space bar (which I have encountered during the installation) - https://www.reddit.com/r/PFSENSE/comments/hen522/zfs_disk_selection_not_possible/
+
+
+Yes:
+
+![image](https://github.com/user-attachments/assets/5ad7a6ce-cdda-496c-b4c5-797fa93e4838)
+
 
 
 
