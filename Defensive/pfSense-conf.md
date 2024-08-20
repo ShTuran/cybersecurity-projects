@@ -109,11 +109,28 @@ If you use this not for lab, change the default creds:
 ![image](https://github.com/user-attachments/assets/0db247f9-4dcc-4411-bf84-e4b9d75978e5)
 
 
+![image](https://github.com/user-attachments/assets/390b62cc-1400-4ef7-9723-5082baac65e1)
 
+I have changed nothing up until now, just clicked `Next` button.
 
+Finally:
 
+![image](https://github.com/user-attachments/assets/811d1fed-d439-4dea-b501-89a3e5d91be5)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+##
+
+On the next page we got system info:
+![image](https://github.com/user-attachments/assets/40b9060b-72d7-46b5-b5a5-3adcae53eaf9)
+
+System > User Manager 
+
+You can add user from there and adjust the necessary info:
+
+![image](https://github.com/user-attachments/assets/c868ee63-e60d-44d6-bdda-cef7d2d6e39e)
+
+![image](https://github.com/user-attachments/assets/ec43abb7-2197-4069-8f6c-7982362b553d)
+
 
 
 
