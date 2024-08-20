@@ -1,6 +1,6 @@
 # Configuring pfSense and familiarizing myself with the system
 
-Features:
+## Features:
 
 - **open source** firewall, community support (limited official support)
 - network security and **traffic management**
