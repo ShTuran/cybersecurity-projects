@@ -46,6 +46,20 @@ Yes:
 ![image](https://github.com/user-attachments/assets/5ad7a6ce-cdda-496c-b4c5-797fa93e4838)
 
 
+![image](https://github.com/user-attachments/assets/53b63608-d687-42e8-a18c-41febfda5f90)
+
+When we are dealing with pfSense we need 2 network interface:
+
+![pfsense(1)](https://github.com/user-attachments/assets/adca3af2-8990-4a98-8de8-2948c7456215)
+
+Please do not judge my drawing ability :)
+
+![image](https://github.com/user-attachments/assets/e9ec12de-581c-4fb2-8ec9-ca2052394fe9)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
