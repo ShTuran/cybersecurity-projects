@@ -194,6 +194,6 @@ You can get status information of mentioned ones:
 ![image](https://github.com/user-attachments/assets/fb2638db-8864-4224-a476-dbdda290c871)
 
 
-***There are a lot of details of pfSense, I recommende to mess around with them or follow through some Yotube videos to get familiar with them.***
+***There are a lot of details of pfSense, I recommend to mess around with them or follow through some Yotube videos to get familiar with them.***
 
 Thanks.
