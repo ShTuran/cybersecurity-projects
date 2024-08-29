@@ -1,5 +1,6 @@
 # Configuring pfSense and familiarizing myself with the system 
 ***credit: [resource](https://www.youtube.com/watch?v=RiF2pEAtUVQ&t=752s)***
+Note: Afte configuring, you can close the VM whenever you want and it start it as normal.
 
 
 ## Features:
@@ -134,6 +135,13 @@ You can add user from there and adjust the necessary info:
 ![image](https://github.com/user-attachments/assets/c868ee63-e60d-44d6-bdda-cef7d2d6e39e)
 
 ![image](https://github.com/user-attachments/assets/ec43abb7-2197-4069-8f6c-7982362b553d)
+
+You can add group as well:
+
+![image](https://github.com/user-attachments/assets/a2de906c-38f7-4487-8cd5-68c028b5bb08)
+
+![image](https://github.com/user-attachments/assets/64447d64-8b30-4ca8-a4c9-04dce66b6a45)
+
 
 
 
