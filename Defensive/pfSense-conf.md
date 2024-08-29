@@ -1,5 +1,7 @@
 # Configuring pfSense and familiarizing myself with the system 
 ***credit: [resource](https://www.youtube.com/watch?v=RiF2pEAtUVQ&t=752s)***
+***useful: [resource](https://www.youtube.com/watch?v=Ayr_av2EX_U)***
+
 
 Note: Afte configuring, you can close the VM whenever you want and start it as normal.
 
