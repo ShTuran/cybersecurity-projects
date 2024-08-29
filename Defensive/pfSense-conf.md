@@ -130,6 +130,11 @@ Finally:
 On the next page we got system info:
 ![image](https://github.com/user-attachments/assets/40b9060b-72d7-46b5-b5a5-3adcae53eaf9)
 
+In here, you can change the web interface port and how many users can access it simultaneously:
+
+![image](https://github.com/user-attachments/assets/8e286fe4-e4c1-468e-9251-c3f0cea4fafe)
+
+
 ## User Manager
 
 System > User Manager 
