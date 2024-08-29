@@ -232,6 +232,6 @@ We can make pfSense dark:
 
 
 
-***There are a lot of details of pfSense, I recommend to mess around with them or follow through some Yotube videos to get familiar with them.***
+***There are a lot of details of pfSense, I recommend to mess around with them / (if not lab purposes) read documentation or follow through some Yotube videos to get familiar with them.***
 
 Thanks.
