@@ -167,6 +167,20 @@ If you going to change something do not forget to click "Apply Changes" button!
 
 ![image](https://github.com/user-attachments/assets/2ce967d7-2468-4a60-87d1-0e985365835d)
 
+**Package Manager**
+
+![image](https://github.com/user-attachments/assets/f3c03212-ee7e-4211-9a6f-58837b957500)
+
+**High Availability**
+
+You can configure the backup (2nd) pfSense and sync them:
+
+![image](https://github.com/user-attachments/assets/37e227a6-c668-469a-8c24-732bd962516b)
+
+![image](https://github.com/user-attachments/assets/195c1858-9e34-44e5-89f2-a729e365fd4d)
+
+
+
 
 
 
