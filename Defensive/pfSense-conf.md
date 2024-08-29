@@ -138,9 +138,19 @@ You can add user from there and adjust the necessary info:
 
 You can add group as well:
 
-![image](https://github.com/user-attachments/assets/a2de906c-38f7-4487-8cd5-68c028b5bb08)
+![image](https://github.com/user-attachments/assets/5e841cae-46c1-4277-a56d-24ec603dc0bd)
 
 ![image](https://github.com/user-attachments/assets/64447d64-8b30-4ca8-a4c9-04dce66b6a45)
+
+**Settings**
+
+![image](https://github.com/user-attachments/assets/f3efc1ab-3213-4da2-9101-511daeae9a68)
+
+**Authentication Server**
+
+![image](https://github.com/user-attachments/assets/4eb34352-8056-4caf-8457-7a2eebdc811b)
+
+
 
 
 
