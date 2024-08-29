@@ -150,6 +150,23 @@ You can add group as well:
 
 ![image](https://github.com/user-attachments/assets/4eb34352-8056-4caf-8457-7a2eebdc811b)
 
+**Update**
+
+![image](https://github.com/user-attachments/assets/72866559-439a-4d4a-84e0-802934740309)
+
+![image](https://github.com/user-attachments/assets/ca80718d-e576-485e-a4f9-8e74ba4acc6a)
+
+**Routing**
+
+![image](https://github.com/user-attachments/assets/39b63fd8-0919-4501-be57-0be7e5506580)
+
+If you going to change something do not forget to click "Apply Changes" button!
+
+**Register**
+
+![image](https://github.com/user-attachments/assets/2ce967d7-2468-4a60-87d1-0e985365835d)
+
+
 
 
 
