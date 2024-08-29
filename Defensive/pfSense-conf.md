@@ -179,8 +179,16 @@ You can configure the backup (2nd) pfSense and sync them:
 
 ![image](https://github.com/user-attachments/assets/195c1858-9e34-44e5-89f2-a729e365fd4d)
 
+**Advanced Configuration**
+
+![image](https://github.com/user-attachments/assets/79ac47e1-da14-4c1b-9609-e79f4c348219)
 
 
+**Status**
+
+You can get status information of mentioned ones:
+
+![image](https://github.com/user-attachments/assets/fb2638db-8864-4224-a476-dbdda290c871)
 
 
 
