@@ -134,6 +134,16 @@ In here, you can change the web interface port and how many users can access it 
 
 ![image](https://github.com/user-attachments/assets/8e286fe4-e4c1-468e-9251-c3f0cea4fafe)
 
+After saving, you'll redirected:
+
+![image](https://github.com/user-attachments/assets/6c300b7c-b40e-4e6f-856b-ef8e97f671bb)
+
+
+Access via SSH:
+
+![image](https://github.com/user-attachments/assets/88dd2b12-268b-4d91-b7d1-9052879061e0)
+
+
 
 ## User Manager
 
