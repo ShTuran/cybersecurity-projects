@@ -223,6 +223,11 @@ If you stuck somewhere (any page of pfSense), this might be helpful:
 
 ![image](https://github.com/user-attachments/assets/4aa67812-2300-440d-9805-d8fdd37a02d6)
 
+I found later, we can make pfSense dark:
+
+![image](https://github.com/user-attachments/assets/917fb8f3-18f5-4403-aede-e8c17a061e7d)
+
+
 
 
 ***There are a lot of details of pfSense, I recommend to mess around with them or follow through some Yotube videos to get familiar with them.***
