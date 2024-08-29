@@ -200,13 +200,9 @@ You can get status information of mentioned ones:
 
 ![image](https://github.com/user-attachments/assets/019098c0-7f05-464f-9b4f-fd8bbfd1dad3)
 
-Save and Apply Changes, after the DHCP server up and running:
+Save and Apply Changes, after that DHCP server up and running:
 
 ![image](https://github.com/user-attachments/assets/ee447869-6585-4e17-a394-37574d7bab71)
-
-
-
-
 
 
 ***There are a lot of details of pfSense, I recommend to mess around with them or follow through some Yotube videos to get familiar with them.***
