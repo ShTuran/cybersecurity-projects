@@ -1,5 +1,5 @@
 # Configuring pfSense and familiarizing myself with the system 
-***I have used this [video](https://www.youtube.com/watch?v=RiF2pEAtUVQ&t=752s)***
+*** helpful [resource](https://www.youtube.com/watch?v=RiF2pEAtUVQ&t=752s)***
 
 
 ## Features:
@@ -125,6 +125,8 @@ Finally:
 On the next page we got system info:
 ![image](https://github.com/user-attachments/assets/40b9060b-72d7-46b5-b5a5-3adcae53eaf9)
 
+## User Manager
+
 System > User Manager 
 
 You can add user from there and adjust the necessary info:
@@ -132,9 +134,6 @@ You can add user from there and adjust the necessary info:
 ![image](https://github.com/user-attachments/assets/c868ee63-e60d-44d6-bdda-cef7d2d6e39e)
 
 ![image](https://github.com/user-attachments/assets/ec43abb7-2197-4069-8f6c-7982362b553d)
-
-
-Note: You can close the VM whenever you want and it start it as normal.
 
 
 
