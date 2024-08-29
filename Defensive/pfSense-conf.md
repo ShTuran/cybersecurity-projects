@@ -1,5 +1,5 @@
 # Configuring pfSense and familiarizing myself with the system 
-***helpful [resource](https://www.youtube.com/watch?v=RiF2pEAtUVQ&t=752s)***
+***credit: [resource](https://www.youtube.com/watch?v=RiF2pEAtUVQ&t=752s)***
 
 
 ## Features:
