@@ -23,7 +23,7 @@ since I got the `401` error, I needed to ignore them.
 
 ![image](https://github.com/user-attachments/assets/249d6702-170f-42ab-bf22-30815cb81be6)
 
-Next up, we need to crack the password, below we used `john` and it gave us the password to login as a admin
+Next up, we need to crack the password, below we used `john` and it gave us the password to login as admin
 
 ![image](https://github.com/user-attachments/assets/f1ca2645-2116-4c19-ae98-645708ea97ed)
 
