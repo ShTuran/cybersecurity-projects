@@ -1,4 +1,4 @@
-![secret-cpde](https://github.com/user-attachments/assets/4003f22c-1024-4a2f-b73a-c756288b5aac)This is a classic adventure game where your goal is to discover a way to escape.
+This is a classic adventure game where your goal is to discover a way to escape.
 
 I played through the game, but no matter what path you choose, you always end up losing. It seems there's no way out. 
 
