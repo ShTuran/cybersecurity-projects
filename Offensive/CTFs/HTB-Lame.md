@@ -10,6 +10,8 @@ The vsftpd was running on vunerable version; when I searched up, I found the exp
 
 I searched on metasploit and run it, but it was not successful.
 
+And logged in to ftp server as anonymous user, but it was empty.
+
 Next up, I found vulnerability realated to Samba
 
 ![image](https://github.com/user-attachments/assets/a71be3ce-99b5-481d-9112-e5b201d67360)
