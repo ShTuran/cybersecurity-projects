@@ -7,3 +7,18 @@ Even though it was not useful, the first thing I have found the is reflected XSS
 To find the main vulnerability, we was needed the source code {I do not know what happened in the main HTB platform, but I could not be able to find the source code, so I head overed the Github of HTB and find the source code there.}
 https://github.com/hackthebox/cyber-apocalypse-2024/tree/main/web/%5BVery%20Easy%5D%20TimeKORP
 
+This is `TimeController.php`
+
+![image](https://github.com/user-attachments/assets/d658da87-4d37-40a5-b263-d41a26b61e82)
+
+This is the constructor:
+     `$time = new TimeModel($format); `
+
+
+where 
+
+![image](https://github.com/user-attachments/assets/f80dd266-22e8-4f75-ba24-e7fe2af9e964)
+
+
+
+
