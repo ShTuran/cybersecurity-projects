@@ -21,6 +21,11 @@ TimeModel.php:
 
 ![image](https://github.com/user-attachments/assets/f80dd266-22e8-4f75-ba24-e7fe2af9e964)
 
+To get the flag, we need to manipulate $format as `'; cat/flag;# `
+
+![image](https://github.com/user-attachments/assets/e5a44915-d319-4546-bd52-e2d0405890de)
+
+
 
 
 
