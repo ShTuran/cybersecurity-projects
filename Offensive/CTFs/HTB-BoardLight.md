@@ -40,6 +40,32 @@ Implementing given instruction:
 
 ![image](https://github.com/user-attachments/assets/9daa3e2d-2369-4e82-ba85-33706f60123b)
 
+There is no specific thing to do here. And the most common thing is looking for `conf*` files which contain passowords.
+
+Let's search for that file:
+
+![image](https://github.com/user-attachments/assets/fe791df8-75ee-4f15-980e-0a1dd90415be)
+
+More specific:
+
+![image](https://github.com/user-attachments/assets/beb161bd-d4bf-4bf2-85a3-f2e727dd64a4)
+
+Our file:
+
+![image](https://github.com/user-attachments/assets/8274bc06-10dc-415c-8a9d-dd0a5ca00435)
+
+![image](https://github.com/user-attachments/assets/5d3fc27a-a67b-4570-8306-cf2778624f08)
+
+This is my be our user `larissa` password as well (password reuse):
+
+And yes it is; we are right with our guess.
+
+We `ssh` into:
+
+![image](https://github.com/user-attachments/assets/9d343dad-238f-49b8-acd1-14c46a65b34a)
+
+
+
 
 
 
