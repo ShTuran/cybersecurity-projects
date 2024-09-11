@@ -1,12 +1,9 @@
 # Nibbles
 
-# Reported by : Shirinov Turan
+Let's start our nmap scan:
 
-The first step, in almost every pentest or CTF is information gathering (get as much information as possible):
+![image](https://github.com/user-attachments/assets/cba7f845-3aa4-4fd1-b433-b9c4418923e4)
 
-Let's start our nmap scan (I have put only one ss - do nmap as much as needed):
-
-![initial_nmap](https://github.com/user-attachments/assets/9bb9f87f-f5cf-4e76-b431-8d73f0249873)
 
 After that we need to find any vulnerabilities regarding to open ports; 
 
