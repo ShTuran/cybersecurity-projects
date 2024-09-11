@@ -82,6 +82,15 @@ What can we do here?
 
 If we give permission to `sudoers` file and edit it; we can escelate our permission to root.
 
+Symbolic link to `sudoers`  file
+
+![image](https://github.com/user-attachments/assets/53ce8329-5d64-48b2-9c02-0079a2598260)
+
+Giving necessary permission and editing file (as root to `mtz`):
+
+![image](https://github.com/user-attachments/assets/f3496f34-c52e-4918-8ade-af077386dfff)
+
+
 
 
 
