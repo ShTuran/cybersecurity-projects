@@ -14,78 +14,43 @@ After looking the source-code:
 
 ![image](https://github.com/user-attachments/assets/9fc0680c-7c52-4778-917d-4b1fb45bcbe7)
 
-Let's enumerate the website:
-
-![gobuster(ip0)](https://github.com/user-attachments/assets/58490e17-b937-48ab-9de2-472066999869)
-
 And also /nibbleblog itself:
 
-![gobuster(ip-nibbleblog)](https://github.com/user-attachments/assets/a9ad7c6b-e83d-4c43-be7e-a53013c931b4)
+![image](https://github.com/user-attachments/assets/a07f38a6-353d-467b-9e76-3607cbd79b49)
 
 Quick search showed that nibbleblog has some vulnerability:
 
-![file-upload-vuln-4 0 3](https://github.com/user-attachments/assets/28de7926-5020-465c-b237-cf83628608f8)
+https://packetstormsecurity.com/files/133425/NibbleBlog-4.0.3-Shell-Upload.html
+
+Even though, I am not sure about the version of nibbleblog, it is worth to try it;
+
+Poc:
+
+![image](https://github.com/user-attachments/assets/3c212ce0-a02e-43bb-b6b3-39de822c9b85)
 
 Let's confirm our nibbleblog version:
 
 ![confirmed-the-version(v4 0 3)](https://github.com/user-attachments/assets/043cd584-c94d-462f-869c-7d1b05316c6e)
 
-They both match.
+We see that there's `/admin.php`:
 
-I have searched `searchsploit` as well..
+![image](https://github.com/user-attachments/assets/16d18c12-9539-4ceb-a479-11f2e8af0978)
 
-And wanted to find a PoC:
+Website has blacklist, so attention to guesses of password; I have used `hydra` and blocked, restarted the box (do not make that mistake)
 
-![poc-of-nibbles](https://github.com/user-attachments/assets/97acf9f9-f427-451a-8bb7-b58468ad4d27)
+Default credentials, `admin:admin`, `admin:123456`, ... I have searched for credentials did not find anything.
 
-Let's do the same.
+So, it is guess game for me. 
 
-Let's go to /admin page:
+`admin:nibbles` is the one.
 
-![admin php(file)](https://github.com/user-attachments/assets/57d0c8f5-85f9-4f1c-9da7-24cc7c85c94e)
+Even though, we have a PoC at hand; it is worth to try metasploit as well, to see if there is a ready exploit for it already.
 
-I have brute forced the credentials, but failed even get blocked; default credentials and some easy password did not work - however,  'admin' 'nibbles' is the password.
+And indeed, we have; after setting everything we got a `shell`.
 
-And here we uploaded our exploit in plugin (as described in PoC)
+![image](https://github.com/user-attachments/assets/37871527-4de9-4a85-895b-77f090aaf1e0)
 
-and opened a listener:
-
-After we are in, went to
-
-![content-folder](https://github.com/user-attachments/assets/c81fbf4c-3836-4f93-b73e-cb845bb82ee8)
-
-to hit the 'POINT' to get a shell
-
-![getting-a-shell](https://github.com/user-attachments/assets/aebc265b-62a4-4846-a325-c0dd6b90bea4)
-
-We just need to upgrade the shell:
-
-![upgrade-the-shell](https://github.com/user-attachments/assets/b9f02de8-150a-482f-9716-b37de4939a4c)
-
-And get our first (user) flag:
-
-![user-txt](https://github.com/user-attachments/assets/6c6f3459-b588-4095-8371-c2434739ac5d)
-
-All we need to escelate the privileges; for that we can use any known script; and download the script to machine; (open the python server on attacker machine and wget the necessary script):
-
-![LinEnum](https://github.com/user-attachments/assets/8e18fb34-f673-417e-a393-baa6b111b5b6)
-
-Here, we get the interesting information.
-
-We just added one line code to the end of it and run as sudo (also, do not forget to open a listener, since it will give us root access.)
-
-![root](https://github.com/user-attachments/assets/aed13925-d82d-44e6-8e15-c0468a89319e)
-
-![root-txt](https://github.com/user-attachments/assets/7c70579a-0022-47c2-a817-6004e055276f)
-
-
-
-
-
-
-
-
-
+**You can get user flag in appropriate user's home directory**
 
 
 
