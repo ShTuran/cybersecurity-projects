@@ -72,7 +72,7 @@ This password indeed resued for `ssh` as well:
 
 ![image](https://github.com/user-attachments/assets/91944be8-ccd8-49ba-9274-31d1bd847db5)
 
-As always we check `mtz` sudo permission:
+As always we check user sudo permission:
 
 ![image](https://github.com/user-attachments/assets/64189895-3694-4ad0-8f61-8bb07a765be9)
 
