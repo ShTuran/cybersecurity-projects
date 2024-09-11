@@ -4,16 +4,15 @@ Let's start our nmap scan:
 
 ![image](https://github.com/user-attachments/assets/cba7f845-3aa4-4fd1-b433-b9c4418923e4)
 
-
-After that we need to find any vulnerabilities regarding to open ports; 
-
 Website looks so:
 
-![website](https://github.com/user-attachments/assets/b1cfd3a7-21ef-44bc-8a42-a7c7936f51a9)
+![image](https://github.com/user-attachments/assets/93b36e4d-03af-49e4-b614-adbfc1453f05)
+
+Nothing interesting.
 
 After looking the source-code:
 
-![source-code-of-website](https://github.com/user-attachments/assets/2a0e04f8-38f2-4f65-96ab-4584a0953e63)
+![image](https://github.com/user-attachments/assets/9fc0680c-7c52-4778-917d-4b1fb45bcbe7)
 
 Let's enumerate the website:
 
