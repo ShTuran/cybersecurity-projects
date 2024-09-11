@@ -32,5 +32,22 @@ And we have very detailed PoC:
 
 ![image](https://github.com/user-attachments/assets/e14e57c6-ca72-4404-aace-d0d9e8dd85bd)
 
+Visited the website (some people on the box, already put the reverse shells)
+
+![image](https://github.com/user-attachments/assets/15aadc10-0a3e-4d25-b86d-b2413a74cbd4)
+
+![image](https://github.com/user-attachments/assets/a68add71-bfc4-48e2-9ec7-ebd85f1768c3)
+
+Hitting:
+
+![image](https://github.com/user-attachments/assets/f3f10a2e-2b27-4d1f-a8a2-b9a27ff71ca3)
+
+Opening listener:
+
+![image](https://github.com/user-attachments/assets/c220ff3d-dd51-4e8c-98ef-bc421e6ddd3f)
+
+
+
+
 
 
