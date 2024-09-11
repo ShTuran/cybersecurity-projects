@@ -48,6 +48,22 @@ Opening listener:
 
 ![image](https://github.com/user-attachments/assets/65265c7a-13e9-4dca-aeb5-b0ab17d8a1a3)
 
+We have successfully completed the PoC steps.
+
+But here we do not have access to user `mtz`'s direcory.
+
+This is where I stucked mostly.
+
+However, as we know that `conf` files contain some password - so it is worth to check them; in case we found a password for a second openn port - `ssh`
+
+Gone to root directory: `/var/www/chamilo/app/config` this is where worthy files greeted us. 
+
+![image](https://github.com/user-attachments/assets/3c3d05e5-4427-4dd8-b0da-dbc78deb39b0)
+
+But we did not find `ssh` pass, what we have found is db_password; still useful.
+
+![image](https://github.com/user-attachments/assets/dd8effb7-4d90-4111-aaa3-9fec320c465b)
+
 
 
 
