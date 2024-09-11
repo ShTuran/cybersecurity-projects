@@ -14,7 +14,7 @@ After looking the source-code:
 
 ![image](https://github.com/user-attachments/assets/9fc0680c-7c52-4778-917d-4b1fb45bcbe7)
 
-And also /nibbleblog itself:
+`/nibbleblog`:
 
 ![image](https://github.com/user-attachments/assets/a07f38a6-353d-467b-9e76-3607cbd79b49)
 
@@ -27,10 +27,6 @@ Even though, I am not sure about the version of nibbleblog, it is worth to try i
 Poc:
 
 ![image](https://github.com/user-attachments/assets/3c212ce0-a02e-43bb-b6b3-39de822c9b85)
-
-Let's confirm our nibbleblog version:
-
-![confirmed-the-version(v4 0 3)](https://github.com/user-attachments/assets/043cd584-c94d-462f-869c-7d1b05316c6e)
 
 We see that there's `/admin.php`:
 
