@@ -64,6 +64,22 @@ We `ssh` into:
 
 ![image](https://github.com/user-attachments/assets/9d343dad-238f-49b8-acd1-14c46a65b34a)
 
+Privesc:
+
+![image](https://github.com/user-attachments/assets/4a9662ab-db05-439a-950d-4b84632539da)
+
+![image](https://github.com/user-attachments/assets/b28c69bb-08bc-43ba-aa88-5e191b2242d0)
+
+![image](https://github.com/user-attachments/assets/400c0d04-22b1-40c3-aeef-0173272bc1de)
+
+This is the exploit, will give us root access:
+
+https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit
+
+After saving the code into a a file and run it:
+
+![image](https://github.com/user-attachments/assets/834d458f-4d0d-4b55-9a01-e602e36e27ab)
+
 
 
 
