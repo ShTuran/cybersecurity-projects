@@ -28,6 +28,19 @@ Entered:
 
 ![image](https://github.com/user-attachments/assets/cb126f76-07cf-4e22-9d17-6a522737466a)
 
+Searched given information for exploatation:
+
+https://github.com/nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253
+
+![image](https://github.com/user-attachments/assets/ce326bf4-9548-4276-b43d-e0e1ff850ac5)
+
+Implementing given instruction:
+
+![image](https://github.com/user-attachments/assets/90a741fd-3878-41de-976a-a734e73fb765)
+
+![image](https://github.com/user-attachments/assets/9daa3e2d-2369-4e82-ba85-33706f60123b)
+
+
 
 
 
