@@ -64,6 +64,28 @@ But we did not find `ssh` pass, what we have found is db_password; still useful.
 
 ![image](https://github.com/user-attachments/assets/dd8effb7-4d90-4111-aaa3-9fec320c465b)
 
+One of the main password problem is that people use the same password for a lot of services
+
+This password indeed resued for `ssh` as well:
+
+![image](https://github.com/user-attachments/assets/91944be8-ccd8-49ba-9274-31d1bd847db5)
+
+As always we check `mtz` sudo permission:
+
+![image](https://github.com/user-attachments/assets/64189895-3694-4ad0-8f61-8bb07a765be9)
+
+This file allow us to change permission of any file within `mtz` home directory.
+
+![image](https://github.com/user-attachments/assets/3213798d-7839-43c7-a978-e6936d78e94b)
+
+What can we do here?
+
+If we give permission to `sudoers` file and edit it; we can escelate our permission to root.
+
+
+
+
+
 
 
 
