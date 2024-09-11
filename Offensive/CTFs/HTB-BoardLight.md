@@ -20,5 +20,15 @@ Subdomain:
 
 ![image](https://github.com/user-attachments/assets/b0aef59d-d4d6-4a7b-bfae-20632fca15a5)
 
+I have directly searhed for default credentials:
+
+![image](https://github.com/user-attachments/assets/04d8779d-d266-4943-8124-73aa19cd963c)
+
+Entered:
+
+![image](https://github.com/user-attachments/assets/cb126f76-07cf-4e22-9d17-6a522737466a)
+
+
+
 
 
