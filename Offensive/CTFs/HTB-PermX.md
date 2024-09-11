@@ -40,11 +40,13 @@ Visited the website (some people on the box, already put the reverse shells)
 
 Hitting:
 
-![image](https://github.com/user-attachments/assets/f3f10a2e-2b27-4d1f-a8a2-b9a27ff71ca3)
+![image](https://github.com/user-attachments/assets/2d6c19b1-c31c-480e-b6c4-099d46c91816)
 
 Opening listener:
 
 ![image](https://github.com/user-attachments/assets/ec4e96b2-2ddb-4838-acba-4dd2616bade1)
+
+![image](https://github.com/user-attachments/assets/65265c7a-13e9-4dca-aeb5-b0ab17d8a1a3)
 
 
 
