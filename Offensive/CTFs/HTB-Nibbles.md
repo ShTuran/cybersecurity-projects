@@ -48,10 +48,19 @@ And indeed, we have; after setting everything we got a `shell`.
 
 **You can get user flag in appropriate user's home directory**
 
+Privesc:
 
+Let's what command can be run as a `root` user:
 
+![image](https://github.com/user-attachments/assets/7cba08b4-47fa-4c98-a920-bd0b5fefec94)
 
+We have found a script.
 
+And we have full access so, we can append something at the end of file to get a root access -  you can add `sudo su`
+
+and then run `sudo ./monitor.sh` to get a root level
+
+![image](https://github.com/user-attachments/assets/9a778746-c244-4728-b812-29504ef19407)
 
 
 
