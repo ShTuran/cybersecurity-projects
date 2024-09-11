@@ -1,4 +1,4 @@
-*** The box  completed 2nd time (because I forgot to take ss)***
+***The box  completed 2nd time (because I forgot to take ss)***
 
 Result of `nmap` scan:
 
