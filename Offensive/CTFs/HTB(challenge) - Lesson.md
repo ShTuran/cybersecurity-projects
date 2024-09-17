@@ -40,6 +40,9 @@ Connect it:
 
 7th:
 
+![image](https://github.com/user-attachments/assets/4ab11527-8deb-40f8-88c1-1a6b924ebca5)
+
+
 ![image](https://github.com/user-attachments/assets/2098c09d-b466-4818-b016-7edb6def5c7c)
 
 8 task:
