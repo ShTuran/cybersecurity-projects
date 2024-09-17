@@ -14,5 +14,12 @@ Connect it:
 
 1st task:
 
+![image](https://github.com/user-attachments/assets/106b3d5d-9850-4181-a4f5-85fe0a1ab8db)
+
 ![image](https://github.com/user-attachments/assets/3e36127a-4ea6-421d-a63e-1301a1f05c5c)
+
+2nd:
+
+![image](https://github.com/user-attachments/assets/ece1cacf-ed9d-428f-b888-15e47ef74e78)
+
 
