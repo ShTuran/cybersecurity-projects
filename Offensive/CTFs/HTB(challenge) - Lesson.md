@@ -22,4 +22,34 @@ Connect it:
 
 ![image](https://github.com/user-attachments/assets/ece1cacf-ed9d-428f-b888-15e47ef74e78)
 
+3rd:
+
+![image](https://github.com/user-attachments/assets/1e5ef120-232c-4014-b5ee-592620cf37a9)
+
+4th:
+
+![image](https://github.com/user-attachments/assets/cd24e467-754c-4c34-bb9d-fdfefd363e16)
+
+5th:
+
+![image](https://github.com/user-attachments/assets/31cd2ec9-20fb-443d-90d1-6c2c26bd8abd)
+
+6th:
+
+![image](https://github.com/user-attachments/assets/133d08f0-eb93-4108-9662-9332a85e5725)
+
+7th:
+
+![image](https://github.com/user-attachments/assets/2098c09d-b466-4818-b016-7edb6def5c7c)
+
+8 task:
+
+![image](https://github.com/user-attachments/assets/3a297415-9738-42ef-b75b-a03fc6c2d279)
+
+
+
+
+
+
+
 
