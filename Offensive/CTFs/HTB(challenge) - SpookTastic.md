@@ -13,7 +13,9 @@ I am in `challenge` directory and let's analyze the `app.py`:
 
 ![image](https://github.com/user-attachments/assets/003ef6f8-dc69-4303-9595-cf029d8a375d)
 
-I have tried famous payload `<script>alert(1)</script>` to see if it is indeed working and it did. 
+They put block in `email` field.
+
+I have tried famous payload `<script>alert(1)</script>` to see if it is indeed not working and it did not. 
 
 `flag` will be given to us as a alert:
 
@@ -21,3 +23,6 @@ I have tried famous payload `<script>alert(1)</script>` to see if it is indeed w
 
 So, it is worth to check some XSS payload which is not containing `<script>`:
 
+![image](https://github.com/user-attachments/assets/8a683cdd-dec4-4d9c-9040-302999ddfc35)
+
+![image](https://github.com/user-attachments/assets/0ff5729a-1848-4c4b-8d32-cd0cf1dc9287)
