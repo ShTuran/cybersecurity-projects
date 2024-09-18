@@ -13,9 +13,9 @@ I am in `challenge` directory and let's analyze the `app.py`:
 
 ![image](https://github.com/user-attachments/assets/003ef6f8-dc69-4303-9595-cf029d8a375d)
 
-It is interesting that `they are waiting for something` in the email or more correctly, blocking someting - I have tried famous payload `<script>alert(1)</script>` to see if it is indeed working and it did. 
+I have tried famous payload `<script>alert(1)</script>` to see if it is indeed working and it did. 
 
-Yes, `flag` will be given to us as a alert:
+`flag` will be given to us as a alert:
 
 ![image](https://github.com/user-attachments/assets/1985ad6d-8350-4d36-a1e1-ff2fe0ca5367)
 
