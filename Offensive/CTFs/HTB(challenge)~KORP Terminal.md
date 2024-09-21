@@ -4,11 +4,9 @@ When I see the login page, I checked default credentials - not worked
 
 ![image](https://github.com/user-attachments/assets/e81a1fc0-c570-40da-a389-19556a9d552f)
 
-2nd thing is to check source-code
+2nd thing is to check source-code; nothing valuable;
 
-and 3rd is: SQLi; 
-
-so when I put `'` in a username i got:
+and 3rd is: SQLi; most of payload did not work but `admin'` is (error-based)
 
 ![image](https://github.com/user-attachments/assets/15a69154-77a4-4b86-957f-9613b7c36608)
 
