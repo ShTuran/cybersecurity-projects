@@ -10,8 +10,11 @@ However, there's a trick to escaping! By inspecting the website's code, you'll u
 
 ![author-wanted-path](https://github.com/user-attachments/assets/7617378d-c434-4a1f-a793-3b26c635381a)
  
-After that, you're presented with four options. But once again, none of these options lead to victory.
-So, with our secret, we do not need to go above steps actually
+After that, you're presented with four options. 
+
+![image](https://github.com/user-attachments/assets/46acbe54-ffa7-47df-a6b2-1e338b084ab7)
+
+But once again, none of these options lead to victory.
 
 So, just like before, you'll need to dig deeper into the code. That's where you'll find the api, which holds the key to your escape.
 
@@ -19,4 +22,8 @@ So, just like before, you'll need to dig deeper into the code. That's where you'
 
 And `curl` `/api/options` path 
 
+![image](https://github.com/user-attachments/assets/33cb319e-d0c5-4173-a598-665bedca5011)
+
 ![secret-cpde](https://github.com/user-attachments/assets/7c6db5e0-3683-4c87-8860-e7817224a27a)
+
+And paste that into the game!
