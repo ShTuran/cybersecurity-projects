@@ -27,3 +27,6 @@ And `curl` `/api/options` path
 ![secret-cpde](https://github.com/user-attachments/assets/7c6db5e0-3683-4c87-8860-e7817224a27a)
 
 And paste that into the game!
+
+![image](https://github.com/user-attachments/assets/ac55e284-7221-431c-854c-4469ba8d3c89)
+
