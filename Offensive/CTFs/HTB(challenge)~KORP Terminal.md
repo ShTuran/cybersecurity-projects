@@ -1,4 +1,10 @@
-When I see login page, first thing come into my mind is SQLi; so when I put `'` in a username i got:
+When I see the login page, I checked default credentials - not worked
+
+2nd thing is to check source-code
+
+and 3rd is: SQLi; 
+
+so when I put `'` in a username i got:
 
 ![image](https://github.com/user-attachments/assets/15a69154-77a4-4b86-957f-9613b7c36608)
 
