@@ -7,7 +7,7 @@ I played through the game, but no matter what path you choose, you always end up
 However, there's a trick to escaping! By inspecting the website's code, you'll uncover the author way to proceed.
 
 ![author-wanted-path](https://github.com/user-attachments/assets/7617378d-c434-4a1f-a793-3b26c635381a)
-
+ 
 After that, you're presented with four options. But once again, none of these options lead to victory.
 So, with our secret, we do not need to go above steps actually
 
