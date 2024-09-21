@@ -20,6 +20,12 @@ Connect it:
 
 2nd:
 
+It does not worked as given instruction:
+
+![image](https://github.com/user-attachments/assets/7c483a06-c683-4151-9bf5-75bacbff0b15)
+
+Instead:
+
 ![image](https://github.com/user-attachments/assets/ece1cacf-ed9d-428f-b888-15e47ef74e78)
 
 3rd:
