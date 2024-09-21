@@ -6,6 +6,8 @@ I played through the game, but no matter what path you choose, you always end up
  
 However, there's a trick to escaping! By inspecting the website's code, you'll uncover the author way to proceed.
 
+![image](https://github.com/user-attachments/assets/2bf5431d-fdf4-4c55-852a-6a9f22fc6b89)
+
 ![author-wanted-path](https://github.com/user-attachments/assets/7617378d-c434-4a1f-a793-3b26c635381a)
  
 After that, you're presented with four options. But once again, none of these options lead to victory.
