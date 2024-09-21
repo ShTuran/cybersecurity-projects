@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/b45dd1f2-4446-4507-8e07-b4a4572ffbc5)
+
 Even though it was not useful, the first thing I have found the is reflected XSS vulnerability:
 
 ![image](https://github.com/user-attachments/assets/de0cb4e9-a7a8-4881-b6c2-a4f6842b8d98)
