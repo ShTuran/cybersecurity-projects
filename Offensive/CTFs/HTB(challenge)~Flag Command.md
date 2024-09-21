@@ -1,5 +1,7 @@
 This is a classic adventure game where your goal is to discover a way to escape.
 
+![image](https://github.com/user-attachments/assets/3871fd09-45a3-46b1-92fe-3656285300ea)
+
 I played through the game, but no matter what path you choose, you always end up losing. It seems there's no way out. 
 
 However, there's a trick to escaping! By inspecting the website's code, you'll uncover the author way to proceed.
