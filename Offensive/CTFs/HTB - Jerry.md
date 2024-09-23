@@ -22,6 +22,8 @@ We have a place to upload something:
 
 ![image](https://github.com/user-attachments/assets/e6a73263-30e1-4b4a-a2de-054222220ea2)
 
-We can potentially upload a shell and get a reverse shell
+We can potentially upload a shell and get a reverse shell. But our uploaded file must be in a `.war` format. 
+
+We need to build the shell and put the listener; for that I'll use `msfvenom` and `metasploit`:
 
 
