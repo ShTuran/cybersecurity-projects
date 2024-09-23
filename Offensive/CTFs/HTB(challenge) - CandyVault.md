@@ -36,6 +36,8 @@ With that in my mind; we also have Mongodb..
 
 We can try to inject one of the payload from [here](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection)
 
+We can manipulate - `email` and `password` as something and make that value `not equal` = `something`
+
 Result:
 
 ![image](https://github.com/user-attachments/assets/0f392976-3ad6-4c02-9af9-441d4b1aa8ed)
@@ -49,6 +51,10 @@ Same result.
 ![image](https://github.com/user-attachments/assets/e8eece75-0dd6-4609-b668-0648888691b1)
 
 So this is not we want; we want to get `flag`, not to directed to `/`
+
+I made silly mistake in this `challenge`  where I should have put `email` not `username`...
+
+![image](https://github.com/user-attachments/assets/978f8552-bc8b-4819-979b-235fc80332d7)
 
 
 
