@@ -8,3 +8,5 @@ So, in order to execute `.exe` file on Linux I have used `wine`:
 
 ![image](https://github.com/user-attachments/assets/c2c5ea81-98cb-4e81-a4d9-3d2227e23db4)
 
+We need to find the password.
+
