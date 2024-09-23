@@ -1,10 +1,10 @@
-Web interface:
-
-![image](https://github.com/user-attachments/assets/6b40d867-46e1-45fb-a9e5-467466a1705c)
-
 Nmap result:
 
 ![image](https://github.com/user-attachments/assets/09c1f04b-773d-4a34-ac1e-cf5786351ddd)
+
+Web interface:
+
+![image](https://github.com/user-attachments/assets/6b40d867-46e1-45fb-a9e5-467466a1705c)
 
 Gobuster result:
 
