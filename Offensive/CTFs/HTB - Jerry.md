@@ -18,4 +18,8 @@ And we managed to get acess:
 
 ![image](https://github.com/user-attachments/assets/a9b2a4be-4ab7-41cf-995e-5e7e5c4d5e88)
 
+We have a place to upload something:
+
+![image](https://github.com/user-attachments/assets/e6a73263-30e1-4b4a-a2de-054222220ea2)
+
 
