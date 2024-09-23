@@ -36,6 +36,11 @@ With that in my mind; we also have Mongodb..
 
 We can try to inject one of the payload from [here](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection)
 
+Result:
+
+![image](https://github.com/user-attachments/assets/0f392976-3ad6-4c02-9af9-441d4b1aa8ed)
+
+
 
 
 
