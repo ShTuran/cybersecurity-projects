@@ -10,3 +10,9 @@ So, in order to execute `.exe` file on Linux I have used `wine`:
 
 We need to find the password.
 
+I'll use `Ghidra`:
+
+`Ghidra - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission`
+
+
+
