@@ -22,4 +22,6 @@ We have a place to upload something:
 
 ![image](https://github.com/user-attachments/assets/e6a73263-30e1-4b4a-a2de-054222220ea2)
 
+We can potentially upload a shell and get a reverse shell
+
 
