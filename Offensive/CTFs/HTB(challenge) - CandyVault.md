@@ -30,6 +30,13 @@ Flask
 
 ![image](https://github.com/user-attachments/assets/305f7cbe-7ead-4416-89b2-809b50a7bc13)
 
+Seems that we can make `content-type` as  json as well.
+
+With that in my mind; we also have Mongodb..
+
+We can try to inject one of the payload from [link](![image](https://github.com/user-attachments/assets/8970571d-2d46-4f37-b7ef-fcbb87423139))
+
+
 
 
 
