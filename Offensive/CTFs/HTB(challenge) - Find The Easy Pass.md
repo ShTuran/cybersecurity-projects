@@ -14,5 +14,17 @@ I'll use `Ghidra`:
 
 `Ghidra - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission`
 
+When we type wrong password:
+
+![image](https://github.com/user-attachments/assets/aea7d05c-8445-4dbb-ab7d-c2be4cc1002f)
+
+This is useful, because we will use it;
+
+With search functionality:
+
+![image](https://github.com/user-attachments/assets/eec681ad-ed7c-483b-8e97-ade3d350d28f)
+
+
+
 
 
