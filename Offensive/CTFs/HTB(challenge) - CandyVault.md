@@ -46,6 +46,10 @@ I have forgot to change `content-type`:
 
 Same result.
 
+![image](https://github.com/user-attachments/assets/e8eece75-0dd6-4609-b668-0648888691b1)
+
+So this is not we want; we want to get `flag`, not to directed to `/`
+
 
 
 
