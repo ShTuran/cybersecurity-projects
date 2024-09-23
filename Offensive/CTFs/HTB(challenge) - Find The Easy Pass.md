@@ -24,6 +24,21 @@ With search functionality:
 
 ![image](https://github.com/user-attachments/assets/eec681ad-ed7c-483b-8e97-ade3d350d28f)
 
+![image](https://github.com/user-attachments/assets/ace2159c-50e5-4949-b4e2-9c3688b4359e)
+
+Above that, we see some letters: `fortan!` - I have tried for password but it is not.
+
+![image](https://github.com/user-attachments/assets/bc9da917-7e5c-4623-8179-7a69cc562c91)
+
+When I highlight the function:
+
+![image](https://github.com/user-attachments/assets/2e480985-f0e3-47a8-a28a-7b25dd91f6f9)
+
+Password: `fortran!`
+
+
+
+
 
 
 
