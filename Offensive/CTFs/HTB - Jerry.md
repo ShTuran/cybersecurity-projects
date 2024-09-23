@@ -14,3 +14,8 @@ Tried to access `Manager App` and found some credentails:
 
 ![image](https://github.com/user-attachments/assets/8ec32832-7186-43fc-a451-e58066fa6d3b)
 
+And we managed to get acess:
+
+![image](https://github.com/user-attachments/assets/a9b2a4be-4ab7-41cf-995e-5e7e5c4d5e88)
+
+
