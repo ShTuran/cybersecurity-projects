@@ -21,3 +21,7 @@ I have captured the request via Burp to check SQLi with `sqlmap`:
 ![image](https://github.com/user-attachments/assets/5001e9f6-6057-42c6-bc1c-460c5918093d)
 
 No luck here as well..
+
+As a next step, I have tried to brute force username and password, but it also did not worked
+
+![image](https://github.com/user-attachments/assets/0c7cabba-f81b-4c9d-8f8e-5f2463c91318)
