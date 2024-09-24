@@ -26,4 +26,32 @@ We can potentially upload a shell and get a reverse shell. But our uploaded file
 
 We need to build the shell and put the listener; for that I'll use `msfvenom` and `metasploit`:
 
+It is worth to note that, we got server information as well:
+
+![image](https://github.com/user-attachments/assets/3a7500e5-99a7-43f3-a587-02a1682ead0b)
+
+Create the payload:
+
+![image](https://github.com/user-attachments/assets/59249dc8-f4b1-466b-876c-647fb203e1da)
+
+Create the listener:
+
+![image](https://github.com/user-attachments/assets/8076090d-682d-4810-8d7e-cbef22d870c1)
+
+Upload to web server:
+
+![image](https://github.com/user-attachments/assets/6957b320-4060-49f7-a635-d917b0bb7cbd)
+
+Request the payload:
+
+![image](https://github.com/user-attachments/assets/1c6c3c11-6823-455a-b9e7-133319c9a064)
+
+we did not get the shell
+
+
+Catch the shell:
+
+Get the flags:
+
+
 
