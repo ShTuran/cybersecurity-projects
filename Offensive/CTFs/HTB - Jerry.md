@@ -46,12 +46,20 @@ Request the payload:
 
 ![image](https://github.com/user-attachments/assets/1c6c3c11-6823-455a-b9e7-133319c9a064)
 
-we did not get the shell
+we did not get the shell, probably, we'll need to extract the `.war` file and request one of the appropriate file:
 
+![image](https://github.com/user-attachments/assets/0a7049ae-2180-4ca7-b5b1-53a48a900727)
 
 Catch the shell:
 
+![image](https://github.com/user-attachments/assets/1fc81fe0-0d54-4340-bbbc-fb3a937712aa)
+
+![image](https://github.com/user-attachments/assets/e0adcb65-8538-466f-a69d-b8c844bbf5d1)
+
 Get the flags:
+
+![image](https://github.com/user-attachments/assets/28d669a4-1ceb-4d40-ac04-43d226923ff3)
+
 
 
 
